@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
--    1) My Instagram Handle - harshit_sachdeva_7
+-    1) My Instagram Handle - https://www.instagram.com/harshit_sachdeva_7/
 -    2) My LinkedIn Profile - https://www.linkedin.com/in/harshit-sachdeva-b56b9122b
 
 <!---
